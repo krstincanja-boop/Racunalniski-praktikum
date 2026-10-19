@@ -7,11 +7,13 @@
 ## Bližnjice na tipkovnici
 
 - *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
-- *Izreži* označeno v odložišče: Ctrl+X
+- *Izreži* označeno v odložišče: Ctrl+- X
 - *Prilepi* vsebino odložišča: Ctrl+V
-- Zaprianje programa: Alt+F4
-- Preklapljanje med okni: Alt+Tab
-- Odpiranje imenika: Ctrl+O
+- VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+- Skok na začetek vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
+- Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
+- Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
+- Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
 
 <!-- 2. nivojski razdelek -->
 ## Koda
@@ -38,3 +40,5 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 2. [ Računalniški sistemi, storitve in oprema za študente](<!-- https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619 -->)
 3. [Zapiski in vaje za Računalniški praktikum](<!-- https://racunalniski-praktikum.github.io/ -->)
 4. [Dokumentacija za Markdown na GitHububu](<!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->)
+
+
